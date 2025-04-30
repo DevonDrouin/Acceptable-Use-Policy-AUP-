@@ -3,7 +3,7 @@ A sample of an Acceptable Use Policy (AUP)
 
 ## Introduction
 
-In this project, I wrote a simple basic AUP Policy. 
+In this project, I wrote a simple basic AUP Policy for using a companies computers, networks, and data, in order to protect company assets and maintain the confidentiality, integrity, and availability of information. 
 
 
 
@@ -12,5 +12,5 @@ In this project, I wrote a simple basic AUP Policy.
 
 ## Conclusion
 
-This is a simple way to register how the likelihood and impact would affect your risk score. Now depending on current business needs this would lead you to fix the risks in order of high risk to low risk.  
+This is a simple way to create simple policies within a company that shows the policy of what to do and what not to do per their rules. 
 
