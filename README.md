@@ -3,7 +3,7 @@ A sample of an Acceptable Use Policy (AUP)
 
 ## Introduction
 
-In this project, I wrote a simple basic AUP Policy for using a companies computers, networks, and data, in order to protect company assets and maintain the confidentiality, integrity, and availability of information. 
+In this project, I wrote a simple basic AUP Policy for using a company's computers, networks, and data, in order to protect company assets and maintain the confidentiality, integrity, and availability of information. 
 
 
 
